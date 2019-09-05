@@ -1,11 +1,11 @@
 import React from 'react';
-import SVGInline from "react-svg-inline";
-import Laptop from "../images/laptop3d.svg";
+import SVG from 'react-inlinesvg';
+
 
 function Isometric () {
 return(
     <div>
-        <SVGInline svg={ Laptop }/>
+        <SVG src="../images/laptop3d.svg"/>
     </div>
 )
 
