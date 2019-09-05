@@ -62,13 +62,13 @@
 
 
 }
-svg #Layer_6{
+ #Layer_6{
   animation-duration: 1.4s;
   animation-name: animateSvg;
   animation-iteration-count: infinite;
   animation-direction: alternate;
 }
-svg #Layer_5{
+ #Layer_5{
   animation-duration: 1.4s;
   animation-name: animateSvg;
   animation-iteration-count: infinite;
@@ -82,7 +82,7 @@ svg #Layer_5{
     transform: translateX(0px) translateY(-30px);
   }
 }
-svg #Layer_5{
+ #Layer_5{
   animation-duration: 1.4s;
   animation-name: animateSvg1;
   animation-iteration-count: infinite;
@@ -119,6 +119,134 @@ svg #Screen {
 }
 
 
+      .cls-1 {
+        fill: none
+      }
+
+      .cls-3 {
+        fill: #a3a3a3
+      }
+
+      .cls-4 {
+        isolation: isolate
+      }
+
+      .cls-8 {
+        fill: #689d70
+      }
+
+      .cls-9 {
+        fill: #6ba173
+      }
+
+      .cls-10 {
+        fill: #65986e
+      }
+
+      .cls-11 {
+        fill: #63946b
+      }
+
+      .cls-12 {
+        fill: #609068
+      }
+
+      .cls-13 {
+        fill: #5d8c65
+      }
+
+      .cls-14 {
+        fill: #5a8862
+      }
+
+      .cls-15 {
+        fill: #58845f
+      }
+
+      .cls-16 {
+        fill: #55805c
+      }
+
+      .cls-17 {
+        fill: #527c59
+      }
+
+      .cls-18 {
+        fill: #4f7756
+      }
+
+      .cls-19 {
+        fill: #4d7353
+      }
+
+      .cls-20 {
+        fill: #4a6f50
+      }
+
+      .cls-21 {
+        fill: #476b4d
+      }
+
+      .cls-22 {
+        fill: #4e7655
+      }
+
+      .cls-23 {
+        fill: #73ad7c
+      }
+
+      .cls-26 {
+        fill: #858585
+      }
+
+      .cls-31 {
+        fill: #6ea577
+      }
+
+      .cls-32 {
+        fill: #ccc
+      }
+
+      .cls-57 {
+        fill: #949494
+      }
+
+      .cls-60 {
+        fill: #c2c2c2
+      }
+
+      .cls-61 {
+        fill: #bdbdbd
+      }
+
+      .cls-62 {
+        fill: #b8b8b8
+      }
+
+      .cls-63 {
+        fill: #b3b3b3
+      }
+
+      .cls-64 {
+        fill: #adadad
+      }
+
+      .cls-65 {
+        fill: #a8a8a8
+      }
+
+      .cls-66 {
+        fill: #9e9e9e
+      }
+
+      .cls-67 {
+        fill: #999
+      }
+
+      .cls-69 {
+        fill: #0acc21
+      }
+   
 /* SVG */
 /* Home page */
 
