@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Isometric from './Isometric';
 
 export class Home extends Component {
     render() {
@@ -10,7 +11,7 @@ export class Home extends Component {
               
                 <div className='isometric d-flex justify-content-center'>
                 </div>
-                
+                <Isometric />
             </div>
         )
     }
